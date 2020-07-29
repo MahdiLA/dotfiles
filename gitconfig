@@ -47,8 +47,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = mahdi.laanaia@gmail.com
-	name = mahdi laanaia
+	email = mahdi.laanaia@goodmeal.fr
+	name = Mahdi Laanaia
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
